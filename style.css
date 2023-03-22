@@ -101,7 +101,7 @@ section {
           border-radius: 50%;
           margin-bottom: 1rem;
           border: .7rem solid var(--orange);
-          background-image: url(../img/cherry.webp);
+          background-image: url(./img/cherry.webp);
           background-position: top;
           background-size: cover;
     }
