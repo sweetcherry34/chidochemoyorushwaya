@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'freight-ltalic';
+    src: url(FreightDispProBlack-Italic.ttf);
+
+}
+@font-face {
+    font-family: 'freight-medium';
+    src: url(FreightDispProMedium-Regular.ttf);
+
+}
+@font-face {
+    font-family: 'freight-regular';
+    src: url(FreightDispProBlack-Regular.ttf);
+
+}
+@font-face {
+    font-family: 'freight-bold';
+    src: url(FreightDispProSemibold-Regular.ttf);
+
+}
+@font-face {
+    font-family: 'freight-probold';
+    src: url(FreightDispProBold-Regular.ttf);
+
+}
+
+
