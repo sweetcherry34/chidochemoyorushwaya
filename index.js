@@ -27,5 +27,4 @@ scrollTop: $($(this).attr(' href')).offset( ).top,
          'linear'
         );
          
-    
 });
