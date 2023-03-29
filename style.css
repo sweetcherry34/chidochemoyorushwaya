@@ -187,11 +187,11 @@ flex-wrap: wrap;
 flex-flow: column;
 padding: 3rem 0;
 color: #fff;
-line-height: 50px;
+line-height: 30px;
 }
 .about .row p{
   font-weight: 'freight-regular';
-  font-size: 2rem;
+  font-size: 1.5rem;
   margin: 50px ;
 
 }
