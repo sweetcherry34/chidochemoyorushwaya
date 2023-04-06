@@ -187,7 +187,7 @@ flex-wrap: wrap;
 flex-flow: column;
 padding: 3rem 0;
 color: #fff;
-line-height:30px;
+line-height: 30px;
 }
 .about .row p{
   font-weight: 'freight-regular';
